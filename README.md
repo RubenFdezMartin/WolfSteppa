@@ -1,2 +1,2 @@
 # WolfSteppa
-Aplicación diseñada para almacenar datos mediante transferencia JSON
+Aplicación diseñada mediante Laravel y NodeJS para almacenar datos mediante transferencia JSON
